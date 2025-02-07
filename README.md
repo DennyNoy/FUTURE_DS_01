@@ -1,2 +1,2 @@
-# FUTURE_DS_01
-Future interns assignment submission
+Shula Tech Solutions Assignment Submission
+Project No 01
